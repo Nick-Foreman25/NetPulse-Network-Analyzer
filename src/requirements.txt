@@ -1,0 +1,10 @@
+PyQt5>=5.15
+pythonping==1.1.4
+dnspython>=2.3
+pandas>=1.5
+matplotlib>=3.5
+reportlab>=3.6
+apscheduler>=3.9
+openpyxl>=3.0
+scapy>=2.4.5
+psutil>=5.9
