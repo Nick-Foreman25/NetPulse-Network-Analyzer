@@ -1,0 +1,72 @@
+NetPulse Proprietary License Agreement
+Copyright (c) 2025 Nick Foreman. All rights reserved.
+
+This software, including its source code, documentation, design, and compiled executables,
+(hereafter referred to as “NetPulse”), is the exclusive property of Nick Foreman (“the Author”).
+
+By installing, accessing, or using NetPulse, you (“the User”) agree to be bound by the terms of this License.
+
+------------------------------------------------------------
+1. GRANT OF LICENSE
+------------------------------------------------------------
+The Author grants the User a limited, non-exclusive, non-transferable, revocable license to install and use
+NetPulse for personal or internal business purposes only.
+
+This license does NOT include the right to:
+- Copy, distribute, or make NetPulse available to third parties.
+- Modify, decompile, reverse-engineer, or create derivative works of the software.
+- Sell, sublicense, or include NetPulse in any commercial product or service.
+- Use NetPulse or its components for commercial or competitive purposes without written consent.
+
+------------------------------------------------------------
+2. RESTRICTIONS
+------------------------------------------------------------
+The User shall not:
+- Circumvent or disable license checks, usage limitations, or security mechanisms.
+- Publish or disclose the source code, data structures, or internal logic of NetPulse.
+- Use NetPulse to provide services to others for profit or compensation without a valid commercial license.
+
+------------------------------------------------------------
+3. OWNERSHIP
+------------------------------------------------------------
+NetPulse and all associated intellectual property rights remain the sole and exclusive property of the Author.
+No ownership rights are transferred to the User by this License.
+
+------------------------------------------------------------
+4. WARRANTIES AND LIABILITY
+------------------------------------------------------------
+NetPulse is provided “AS IS” without warranty of any kind, express or implied.
+The Author does not warrant that NetPulse will be error-free or uninterrupted.
+In no event shall the Author be liable for any damages arising from the use or inability to use the software.
+
+------------------------------------------------------------
+5. TERM AND TERMINATION
+------------------------------------------------------------
+This License is effective until terminated.
+It will automatically terminate if the User breaches any term of this License.
+Upon termination, the User must cease all use of NetPulse and destroy all copies.
+
+------------------------------------------------------------
+6. COMMERCIAL LICENSING
+------------------------------------------------------------
+Commercial, enterprise, or redistributable use requires a separate written agreement or license key.
+To request commercial licensing or redistribution rights, contact:
+
+   Nick Foreman
+   Email: nick.foreman@example.com
+   (Replace with your preferred contact email)
+
+------------------------------------------------------------
+7. TRADEMARK NOTICE
+------------------------------------------------------------
+“NetPulse” is a trademark of Nick Foreman. Unauthorized use of this trademark is strictly prohibited.
+
+------------------------------------------------------------
+8. GOVERNING LAW
+------------------------------------------------------------
+This License shall be governed by and interpreted in accordance with the laws of the United States,
+without regard to its conflict of law principles.
+
+------------------------------------------------------------
+END OF LICENSE AGREEMENT
+------------------------------------------------------------
