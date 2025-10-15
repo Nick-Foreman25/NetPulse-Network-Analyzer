@@ -1,11 +1,11 @@
 ; NetPulse Windows Installer Script (Inno Setup)
 [Setup]
 AppName=NetPulse
-AppVersion=1.0.0
+AppVersion=1.0.1
 AppPublisher=NetPulse
 DefaultDirName={pf}\NetPulse
 DefaultGroupName=NetPulse
-OutputBaseFilename=NetPulse_Setup_v1.0.0
+OutputBaseFilename=NetPulse_Setup_v1.0.1
 Compression=lzma
 SolidCompression=yes
 PrivilegesRequired=admin
